@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🚀 MSc Aerospace Engineering @ TUM  
+🚀 MSc Aerospace @ TUM  
 🔧 Avionics, Embedded Systems, GNC, Satellite Communication
 🌍 Based in Augsburg, Germany  
 
