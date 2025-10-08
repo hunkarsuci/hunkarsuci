@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Hünkar Suci  
 
-🚀 MSc Aerospace Engineering & Computational Mechanics @ TUM  
+🚀 MSc Aerospace Engineering @ TUM  
 🔧 Avionics, Embedded Systems, UAVs & Sensor Fusion  
 🌍 Based in Munich, Germany  
 
