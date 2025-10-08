@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hünkar Suci  
+# Hi there 👋
 
 🚀 MSc Aerospace Engineering @ TUM  
 🔧 Avionics, Embedded Systems, GNC, Satellite Communication
