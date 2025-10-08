@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Hünkar Suci  
 
 🚀 MSc Aerospace Engineering @ TUM  
-🔧 Avionics, Embedded Systems, UAVs & Sensor Fusion  
-🌍 Based in Munich, Germany  
+🔧 Avionics, Embedded Systems, GNC, Satellite Communication
+🌍 Based in Augsburg, Germany  
 
 ---
 
 ## 🔹 About Me  
 - 🛰️ Working on optimization-based Visual-Inertial Odometry (VIO)  
 - ✈️ Creating synthetic UAV trajectories & avionics test tools  
-- 🤖 Passionate about GNC, robotics, and autonomous systems  
+- 🤖 Passionate about GNC, robotics, communication and autonomous systems  
 
 ---
 
