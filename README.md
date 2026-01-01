@@ -84,10 +84,3 @@ algorithms, building simulation and test frameworks, and validating systems with
 
 - 🎓 Preparing for a **Master’s thesis** in **GNC, state estimation, or autonomous systems**
 - 🤝 Open to collaboration with **research labs and industry partners** in aerospace, robotics, and autonomy
-
----
-
-## Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link
-- 📧 Email: your.email@domain.com
