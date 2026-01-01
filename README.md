@@ -1,7 +1,7 @@
 # Hünkar Suci 👋
 
 **M.Sc. Aerospace Engineering @ Technical University of Munich (TUM)**  
-Guidance, Navigation & Control (GNC) • Avionics Software • Autonomous Systems  
+Guidance, Navigation & Control (GNC) • Autonomous Systems  
 
 ---
 
