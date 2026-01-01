@@ -2,16 +2,14 @@
 
 **M.Sc. Aerospace Engineering @ Technical University of Munich (TUM)**  
 Guidance, Navigation & Control (GNC) • Avionics Software • Autonomous Systems  
-📍 Augsburg, Germany
 
 ---
 
 ## About Me
 
-I am an aerospace engineering master’s student with a strong focus on **Guidance, Navigation & Control**,  
-**state estimation**, and **avionics-oriented software systems**.
+I am an aerospace engineering master’s student with a strong focus on **Guidance, Navigation & Control**
 
-My work lies at the intersection of **theory and implementation** — developing estimation and control
+My work lies at the intersection of **theory and implementation** developing estimation and control
 algorithms, building simulation and test frameworks, and validating systems with a strong engineering mindset.
 
 - 🔬 Working on **optimization-based Visual–Inertial Odometry (VIO)**
@@ -79,8 +77,4 @@ algorithms, building simulation and test frameworks, and validating systems with
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunkarsuci&layout=compact)
 
 ---
-
-## Looking Ahead
-
-- 🎓 Preparing for a **Master’s thesis** in **GNC, state estimation, or autonomous systems**
-- 🤝 Open to collaboration with **research labs and industry partners** in aerospace, robotics, and autonomy
+- 
