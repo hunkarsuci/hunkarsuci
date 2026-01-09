@@ -1,73 +1,31 @@
-# Hünkar Suci 👋
+**Hünkar Suci**  
 
-**M.Sc. Aerospace Engineering @ Technical University of Munich (TUM)**  
-Guidance, Navigation & Control (GNC) • Autonomous Systems  
+M.Sc. Aerospace Engineering 
 
----
+I work on **Guidance, Navigation & Control (GNC)**, **state estimation**, and **real-time software systems**, with a background spanning aerospace dynamics, autonomous systems, avionics testing, and embedded software.
 
-## About Me
+My experience includes industry and research work in defense, automotive, and aerospace environments, focusing on building **explainable, testable, and production-ready engineering systems**.
 
-I am an aerospace engineering master’s student with a strong focus on **Guidance, Navigation & Control**
+## 🧠 Technical Interests
 
-My work lies at the intersection of **theory and implementation** developing estimation and control
-algorithms, building simulation and test frameworks, and validating systems with a strong engineering mindset.
-
-- 🔬 Working on **optimization-based Visual–Inertial Odometry (VIO)**
-- ✈️ Creating **synthetic UAV trajectories, simulators, and avionics test tools**
-- 🧠 Strong interest in **sensor fusion, estimation consistency, and control**
-- 🔧 Hands-on experience with **embedded systems, hardware–software integration, and test automation**
-
----
-
-## Selected Projects
-
-### 🔹 Optimization-Based Visual–Inertial Odometry (VIO)
-- Nonlinear least-squares formulation for IMU–camera fusion  
-- Focus on observability, consistency, and trajectory accuracy  
-- Evaluation on synthetic and real-world datasets  
-- **Tools:** C++, Python, Eigen, optimization solvers  
-👉 *Ongoing academic project*
+- Guidance, Navigation & Control (GNC)  
+- State estimation (Kalman Filter, EKF, IMM)  
+- Target tracking & sensor fusion  
+- Missile guidance & interception logic  
+- Aerospace dynamics & simulation  
+- Python & C++ for real-time systems  
+- Linux, CI/CD, test automation  
 
 ---
 
-### 🔹 UAV Trajectory & Avionics Test Framework
-- Synthetic flight trajectory generation for fixed-wing and UAV scenarios  
-- Sensor noise modeling and fault injection  
-- Designed to support **GNC algorithm validation and estimator benchmarking**  
-👉 *Framework under development*
+## 📍 Background
 
----
+- Software Test Automation @ **Rohde & Schwarz** (Qt, Linux, CI)  
+- Avionics & flight systems testing (DO-178C context)  
+- Embedded systems & ADAS prototyping (CAN, Embedded C)  
+- Autonomous UAV systems (ROS, C++, Python)  
+- Aerospace & defense projects (Airbus Defence & Space)
 
-### 🔹 Embedded & Test Automation Tooling
-- Development of hardware-oriented test setups  
-- Automation-focused mindset inspired by avionics and safety-critical systems  
-- Bridging **software ↔ hardware ↔ validation** workflows  
-
----
-
-## Technical Skills
-
-### Programming
-- **Python** – simulation, analysis, automation
-- **C++** – performance-critical systems, estimation, tooling
-- **MATLAB** – control, modeling, rapid prototyping
-
-### GNC & Robotics
-- State estimation (Kalman filtering, optimization-based methods)
-- Sensor fusion (IMU, vision)
-- Trajectory generation and simulation
-- System modeling and validation
-
-### Embedded & Systems
-- Microcontrollers / Arduino
-- Avionics-style development mindset
-- Hardware-in-the-loop (HIL) concepts
-- Linux-based development
-
-### Frameworks & Tools
-- ROS / ROS 2
-- Git & version control
-- CI / automation-oriented workflows
 
 ---
 
