@@ -6,7 +6,7 @@ I work on **Guidance, Navigation & Control (GNC)**, **state estimation**, and **
 
 My experience includes industry and research work in defense, automotive, and aerospace environments, focusing on building **explainable, testable, and production-ready engineering systems**.
 
-## 🧠 Technical Interests
+## Technical Interests
 
 - Guidance, Navigation & Control (GNC)  
 - State estimation (Kalman Filter, EKF, IMM)  
@@ -16,11 +16,10 @@ My experience includes industry and research work in defense, automotive, and ae
 - Python & C++ for real-time systems  
 - Linux, CI/CD, test automation  
 
-## 📍 Background
+## Background
 
 - Software Test Automation  (Qt, Linux, CI)  
 - Avionics & flight systems testing (DO-178C context)  
 - Embedded systems & ADAS prototyping (CAN, Embedded C)  
 - Autonomous UAV systems (ROS, C++, Python)  
 - Aerospace & defense projects
-- 
