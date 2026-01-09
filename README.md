@@ -16,23 +16,11 @@ My experience includes industry and research work in defense, automotive, and ae
 - Python & C++ for real-time systems  
 - Linux, CI/CD, test automation  
 
----
-
 ## 📍 Background
 
-- Software Test Automation @ **Rohde & Schwarz** (Qt, Linux, CI)  
+- Software Test Automation  (Qt, Linux, CI)  
 - Avionics & flight systems testing (DO-178C context)  
 - Embedded systems & ADAS prototyping (CAN, Embedded C)  
 - Autonomous UAV systems (ROS, C++, Python)  
-- Aerospace & defense projects (Airbus Defence & Space)
-
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hunkarsuci&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunkarsuci&layout=compact)
-
----
+- Aerospace & defense projects
 - 
