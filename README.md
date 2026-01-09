@@ -1,10 +1,9 @@
-**Hünkar Suci**  
 
 M.Sc. Aerospace Engineer
 
-I work on **Guidance, Navigation & Control (GNC)**, **state estimation**, and **real-time software systems**, with a background spanning aerospace dynamics, autonomous systems, avionics testing, and embedded software.
+I work on Guidance, Navigation & Control (GNC), state estimation, and real-time software systems, with a background spanning aerospace dynamics, autonomous systems, avionics testing, and embedded software.
 
-My experience includes industry and research work in defense, automotive, and aerospace environments, focusing on building **explainable, testable, and production-ready engineering systems**.
+My experience includes industry and research work in defense, automotive, and aerospace environments, focusing on building explainable, testable, and production-ready engineering systems.
 
 ## Technical Interests
 
