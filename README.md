@@ -1,11 +1,10 @@
 # Hi there, I'm Hunkar Suci 👋
 
 ### M.Sc. Mechanical Engineering (Maschinenwesen) | TUM
-### Aerospace Engineer → Software Test Automation 
+### Software Test Automation 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hunkar-suci-)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/hunkarsuci)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hunkar.suci@gmail.com)
 
 ---
 
@@ -146,8 +145,9 @@ I'm a **Mechanical Engineer** specializing in **Embedded Systems**, **Sensor Fus
 ## 🎓 Education
 
 **M.Sc. Mechanical Engineering** | Technical University of Munich (TUM) | 2021-2026
-- Research: Visual-Inertial Odometry Optimization
-- Publication: [ISARC 2023 Conference](https://doi.org/10.22260/ISARC2023/0080) - Brake Judder Modeling
+- Focus: Guidance Navigation and Control
+- Publication: [ISARC 2023 Conference](https://doi.org/10.22260/ISARC2023/0080)
+- [tum br](https://collab.dvb.bayern/spaces/TUMmodsim/pages/448366998/Minimal+Model+for+Brake+Creep+Groan.)
 
 **Exchange Program** | Technical University of Brno | 2018-2019
 - Focus: Aerospace, Aviation & Space Technology (Erasmus)
@@ -170,7 +170,7 @@ I'm a **Mechanical Engineer** specializing in **Embedded Systems**, **Sensor Fus
 
 I'm passionate about building **robust, real-time systems** that bridge **software and hardware**. Whether it's testing Qt applications under Wayland, calibrating space sensors in vacuum chambers, or optimizing UAV flight controllers, I thrive in challenging interdisciplinary environments where **precision, automation, and innovation** intersect.
 
-My journey from **aerospace engineering to software test automation** has given me a unique perspective: I understand not just *how* to test software, but *why* certain failure modes matter—especially in safety-critical domains like aviation, automotive, and space systems.
+My journey from **aerospace engineering to software test automation** has given me a unique perspective: I understand not just *how* to test software, but *why* certain failure modes matter especially in safety-critical domains like aviation, automotive, and space systems.
 
 ---
 
@@ -183,9 +183,8 @@ I'm always interested in collaborating on projects involving:
 - 🔬 Embedded Systems & HIL/DAQ Testing
 - 🧪 Software Test Automation & CI/CD
 
-**📧 Email:** hunkar.suci@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/hunkar-suci-](https://www.linkedin.com/in/hunkar-suci-)  
-**📍 Location:** Augsburg, Germany
+**📍 Location:** München, Germany
 
 ---
 
