@@ -41,7 +41,7 @@ I'm a **Mechanical Engineer** specializing in **Aerospace and Automative Compute
 
 I'm passionate about building **robust, real-time systems** that bridge **software and hardware**. Whether it's testing Qt applications under Wayland, calibrating space sensors in vacuum chambers, or optimizing UAV flight controllers, I thrive in challenging interdisciplinary environments where **precision, automation, and innovation** intersect.
 
-My journey from **aerospace engineering to software test automation** has given me a unique perspective: I understand not just *how* to test software, but *why* certain failure modes matter especially in safety-critical domains like aviation, automotive, and space systems.
+My journey combination of **mecchanical engineering with software test automation** has given me a unique perspective: I understand not just *how* to test software, but *why* certain failure modes matter especially in safety-critical domains like aviation, automotive, and space systems.
 
 ---
 
