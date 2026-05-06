@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Mechanical Engineer** specializing in **Aerospace and Automative Computer Systems Control, Navigation and Dynamics**. I bridge the gap between hardware and software, combining deep domain knowledge in aviation, space systems, and automotive engineering with modern software and hardware development and test practices.
+I'm a **Mechanical Engineer** specializing in **Aerospace, Automotive Real-Time Systems Control, Navigation and Dynamics**. I bridge the gap between hardware and software, combining deep domain knowledge in aviation, space systems, and automotive engineering with modern software and hardware development and test practices.
 
 ---
 
