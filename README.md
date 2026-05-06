@@ -75,8 +75,7 @@ I'm a **Mechanical Engineer** specializing in **Embedded Systems**, **Sensor Fus
 - **HIL/DAQ Systems** (LabVIEW, PID Control)
 - **Real-Time DSP** & Signal Processing
 - **CAN-Bus, UART, Ethernet** communication protocols
-- **Arduino, MUX/DEMUX, PCB Design** (KiCad)
-- **FPGA/ASIC Development** (Xilinx Vivado)
+- **Arduino, MUX/DEMUX
 
 ### 🧪 Testing & Automation
 - **Software Test Automation** (Qt, Regression Testing)
