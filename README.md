@@ -7,29 +7,29 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Mechanical Engineer** specializing in **Aerospace and Automative Computer Systems Control, Navigation and Dynamics**. I bridge the gap between hardware and software, combining deep domain knowledge in aviation, space systems, and automotive engineering with modern software and hardware development and test practices.
 
 ---
 
-## 🎯 Core Focus
+## Core Focus
 
-### 🧪 Testing & Automation
+### Testing & Automation
 - **Software Test Automation** (Qt, Regression Testing)
 - **DO-178C Avionics Validation**
 - **HIL/SIL Testing** for Embedded Systems
 - **CI/CD Pipelines** (GitLab, Jira, Confluence)
 - **Test Framework Development** (Python, C++, MATLAB)
 
-### 📡 Guidance Navigation and Control
+### Guidance Navigation and Control
 - **GNSS/GPS Systems** & Software Defined Radio (GNU Radio)
 - **Satellite Communication** (SATCOM, RF-Link-Budget)
 - **Sensor Fusion & Inertial Odometry**
 - **Flight Dynamics & Control** Systems
 - **Space Vehicle Testing** (Thermo-Vacuum, Optical Verification)
 
-### 🤖 Robotics & AI
+### Robotics & AI
 - **ROS/ROS2** Navigation & Control
 - **UAV/Drone Systems** Development
 - **Computer Vision** & Object Recognition
