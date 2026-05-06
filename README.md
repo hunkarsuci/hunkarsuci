@@ -1,4 +1,4 @@
-# Hi there, I'm Hunkar Suci 👋
+# Hunkar Suci
 
 ### M.Sc. Mechanical Engineering (Maschinenwesen) | TUM
 ### Software Test Automation 
