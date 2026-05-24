@@ -39,9 +39,11 @@ I'm a **Mechanical Engineer** specializing in **Aerospace, Automotive Real-Time 
 
 ## What Drives Me
 
-I'm passionate about building **robust, real-time systems** that bridge **software and hardware**. Whether it's testing Qt applications under Wayland, calibrating space sensors in vacuum chambers, or optimizing UAV flight controllers, I thrive in challenging interdisciplinary environments where **precision, automation, and innovation** intersect.
+I am driven by the challenge of building robust, real-time systems that connect software, hardware, and physical-world constraints. From testing Qt applications under Wayland, validating avionics data, and calibrating space-grade sensors in vacuum environments to developing UAV navigation and control systems, I enjoy working where precision, automation, and interdisciplinary engineering meet.
 
-My journey combination of **mecchanical engineering with software test automation** has given me a unique perspective: I understand not just *how* to test software, but *why* certain failure modes matter especially in safety-critical domains like aviation, automotive, and space systems.
+With a background that combines mechanical engineering, embedded systems, and software test automation, I bring a systems-level perspective to engineering problems. I do not only focus on whether software works; I care about why failure modes occur, how they propagate, and what they mean in safety-critical domains such as aviation, automotive, robotics, and space systems.
+
+This perspective helps me design tests, tools, and workflows that improve reliability, traceability, and engineering confidence,.especially in environments where software behavior directly affects hardware performance and system safety.
 
 ---
 
