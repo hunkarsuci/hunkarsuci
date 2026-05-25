@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Mechanical Engineer** specializing in **Guidance Navigation and Control**. I bridge the gap between hardware and software, combining deep domain knowledge in aviation, space systems, and automotive engineering with modern software and hardware development and test practices.
+I'm a **Mechanical Engineer** specializing in **Guidance Navigation and Control**, combining deep domain knowledge in aerospace and automotive with electronic systems software and hardware development and test engineering.
 
 ---
 
