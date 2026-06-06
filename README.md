@@ -34,7 +34,7 @@ I'm a **Mechanical Engineer** specializing in **Guidance Navigation and Control*
 - **UAV/Drone Systems** Development
 - **Computer Vision** & Object Recognition
 - **Machine Learning/Deep Learning** Integration
-- **Simulation** & Docker/Kubernetes Deployment
+- **Simulation** & Docker
 ---
 
 ## What Drives Me
