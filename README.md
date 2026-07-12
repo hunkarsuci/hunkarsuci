@@ -2,7 +2,7 @@
 
 ### M.Sc. Mechanical Engineering @ Technical University of Munich
 
-**Guidance, Navigation & Control · Aerospace Systems · Robotics · Embedded Validation**
+**Guidance, Navigation & Control · Aerospace Systems · Automotive Systems · Embedded Validation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hunkar-suci)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/hunkarsuci)
