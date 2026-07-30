@@ -2,7 +2,7 @@
 
 ### M.Sc. Mechanical Engineering @ Technical University of Munich
 
-**Guidance, Navigation & Control · Aerospace Systems · Automotive Systems · Embedded Validation**
+**Guidance, Navigation & Control**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hunkar-suci)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/hunkarsuci)
@@ -59,11 +59,11 @@ My goal is to contribute to reliable autonomous and aerospace systems where cont
 
 ### Programming & Software
 
-`Python` · `C++` · `MATLAB/Simulink` · `Embedded C` · `Qt/PyQt` · `HTML/CSS`
+`Python` · `C++` · `MATLAB/Simulink` · `Embedded C` · `Qt/PyQt` ·
 
 ### Robotics, Simulation & Control
 
-`ROS/ROS2` · `Gazebo` · `Flight Dynamics` · `Control Systems` · `UAV Navigation` · `Sensor Fusion`
+`ROS/ROS2` · `Gazebo` · `Flight Dynamics and Control` · `Sensor Fusion`
 
 ### Validation, Automation & Infrastructure
 
