@@ -1,6 +1,6 @@
 # Hünkar Suci
 
-### M.Sc. Mechanical Engineering @ Technical University of Munich
+### M.Sc. Mechanical Engineer @ Technical University of Munich
 
 **Guidance, Navigation & Control**
 
