@@ -1,111 +1,68 @@
 # Hünkar Suci
 
-### M.Sc. Mechanical Engineer @ Technical University of Munich
+**Mechanical Engineer | Guidance, Navigation & Control | Aerospace Software**
 
-**Guidance, Navigation & Control**
+M.Sc. Mechanical Engineering, Technical University of Munich  
+Based in Munich, Germany
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hunkar-suci)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/hunkarsuci)
+[LinkedIn](https://www.linkedin.com/in/hunkar-suci)
 
+---
 
 ## About Me
 
-I am a mechanical engineer focused on **Guidance, Navigation & Control** for aerospace, robotics, and safety-critical embedded systems.
+I am a mechanical engineer focused on guidance, navigation and control, flight dynamics, state estimation, and aerospace software validation.
 
-My background combines **flight dynamics, UAV navigation, avionics validation, embedded software, RF/GNSS systems, and test automation**. I enjoy working at the intersection of software, hardware, and physical-world system behavior especially where reliability, traceability, and real-time performance matter.
+My projects typically begin with a physical system or an engineering question and continue through modeling, simulation, implementation, and testing. I am particularly interested in the parts of a system that become important beyond ideal simulations: sensor noise, actuator limits, model uncertainty, numerical behavior, timing constraints, and hardware interaction.
 
-My goal is to contribute to reliable autonomous and aerospace systems where control algorithms, navigation software, embedded platforms, and validation workflows come together.
-
----
-
-## Core Focus
-
-### Guidance, Navigation & Control
-
-| Area                        | Topics                                                              |
-| --------------------------- | ------------------------------------------------------------------- |
-| **Navigation & Estimation** | GNSS/GPS, inertial navigation, sensor fusion, odometry              |
-| **Guidance & Control**      | flight dynamics, trajectory tracking, UAV control, control systems  |
-| **Simulation & Validation** | MATLAB/Simulink, Python, C++, SIL/HIL testing                       |
-| **Aerospace Systems**       | avionics validation, SATCOM/RF fundamentals, thermal-vacuum testing |
+I mainly work with Python, C/C++, and MATLAB/Simulink. My current portfolio includes aircraft and UAV dynamics, Kalman filtering, flight-control systems, actuator modeling, and embedded test hardware.
 
 ---
 
-## Technical Strengths
+## Selected Projects
 
-### Aerospace & Autonomous Systems
+### [Drone Error-State Kalman Filter](https://github.com/hunkarsuci/KF_Implementation_for_Drone)
 
-* UAV navigation and control development with ROS, C++, Python, and Gazebo
-* Flight dynamics and control analysis for aerospace systems
-* GNSS/SATCOM-related RF system work, including SDR-based signal reception and RF link budget validation
-* Avionics software validation with a DO-178C-oriented testing mindset
+A 15-state Error-State Kalman Filter for synthetic IMU, GPS, and barometer measurements. The project includes deterministic evaluation, estimator-invariant tests, covariance diagnostics, and documented coordinate-frame and quaternion conventions.
 
-### Embedded Software & Validation
+### [Generic Delta-Canard Fighter 6DOF](https://github.com/hunkarsuci/generic_delta_canard_fighter_6dof)
 
-* Software test automation for Linux/Wayland and Qt-based applications
-* Regression test framework development for GUI stability and cross-platform compatibility
-* HIL/SIL testing for embedded and safety-critical systems
-* CI/CD integration, requirement-based testing, Jira-based tracking, and traceability workflows
+A modular six-degree-of-freedom aircraft simulation developed to study rigid-body dynamics, aerodynamic modeling, numerical integration, trim, linearization, and flight-control design.
 
-### Systems Engineering
+### [F-16-Inspired Lateral-Directional Flight Control](https://github.com/hunkarsuci/F16-Inspired-Lateral-Directional-FCS)
 
-* Connecting software behavior with hardware performance and physical-world constraints
-* Debugging, root-cause analysis, and reliability improvement for complex technical systems
-* Working across simulation, lab validation, embedded hardware, and software tooling
+A simplified lateral-directional control-system study incorporating state-feedback control, command shaping, actuator dynamics, rate limits, and saturation behavior.
+
+### [32×32 Cable Tester](https://github.com/hunkarsuci/32x32-Cable-Tester)
+
+An Arduino-based hardware and firmware project for testing 32-line cable assemblies and identifying open, crossed, and shorted connections.
 
 ---
 
-## Tools & Technologies
+## Engineering Interests
 
-### Programming & Software
-
-`Python` · `C++` · `MATLAB/Simulink` · `Embedded C` · `Qt/PyQt` ·
-
-### Robotics, Simulation & Control
-
-`ROS/ROS2` · `Gazebo` · `Flight Dynamics and Control` · `Sensor Fusion`
-
-### Validation, Automation & Infrastructure
-
-`HIL/SIL Testing` · `LabVIEW` · `GitLab CI/CD` · `Docker` · `Jira` · `Confluence` · `PostgreSQL` · `Grafana`
-
-### Aerospace & RF Systems
-
-`GNSS/GPS` · `SATCOM` · `GNU Radio` · `SDR` · `RF Link Budget` · `UART` · `CAN` · `Ethernet`
+- Guidance, navigation and control
+- Flight dynamics and control-law development
+- Kalman filtering and multi-sensor state estimation
+- UAV and autonomous-system software
+- Aerospace and avionics software validation
+- Embedded testing, SIL/HIL, and fault investigation
+- Simulation-driven engineering
 
 ---
 
-## Selected Experience Themes
+## Technical Toolkit
 
-* Built autonomous UAV navigation and control workflows using ROS, C++, Python, and simulation environments
-* Validated avionics data encoding and decoding under DO-178C-oriented software testing processes
-* Developed automation tools and regression workflows for Linux-based Qt applications
-* Implemented HIL/DAQ workflows for space-grade thermal-vacuum and sensor validation
-* Worked on GNSS/SATCOM-related RF systems, SDR-based reception, and link budget validation
-* Designed embedded test hardware and firmware for ADAS/AD hardware verification
-* Supported simulation-driven engineering workflows using MATLAB/Simulink, Python, C++, and lab-based validation tools
+**Programming:** Python, C/C++, MATLAB  
+**Modeling and control:** NumPy, SciPy, MATLAB/Simulink, state-space methods  
+**Robotics and embedded systems:** ROS/ROS2, Arduino, serial communication, CAN  
+**Testing and infrastructure:** Pytest, Ruff, GitHub Actions, Git, Docker  
+**Engineering workflows:** SIL/HIL testing, test automation, requirements and traceability
 
 ---
 
-## What I Am Looking For
+## Current Direction
 
-I am interested in engineering roles and projects related to:
+I am currently developing deeper, reproducible projects in state estimation, flight dynamics, control, and embedded validation.
 
-* Guidance, Navigation & Control
-* Flight dynamics and control systems
-* Sensor fusion and navigation algorithms
-* UAVs, robotics, and autonomous systems
-* Aerospace software and avionics validation
-* Safety-critical embedded systems
-* Simulation-driven development and HIL/SIL testing
-
----
-
-## Engineering Direction
-
-I want to work on systems that do not only run in simulation, but also survive real-world uncertainty, hardware limitations, noisy sensors, timing constraints, and safety-critical failure modes.
-
-My long-term direction is to grow deeper in **GNC, autonomous aerospace systems, and reliable embedded software for real-world robotic and flight platforms**.
-
-
-
+My goal is to work on aerospace or autonomous systems where algorithms must remain reliable under real sensor behavior, model uncertainty, actuator constraints, and safety-critical operating conditions.
