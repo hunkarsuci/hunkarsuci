@@ -15,7 +15,7 @@ I am a mechanical engineer focused on guidance, navigation and control, flight d
 
 My projects typically begin with a physical system or an engineering question and continue through modeling, simulation, implementation, and testing. I am particularly interested in the parts of a system that become important beyond ideal simulations: sensor noise, actuator limits, model uncertainty, numerical behavior, timing constraints, and hardware interaction.
 
-I mainly work with Python, C/C++, and MATLAB/Simulink. My current portfolio includes aircraft and UAV dynamics, Kalman filtering, flight-control systems, actuator modeling, and embedded test hardware.
+I mainly work with Python, C/C++, and MATLAB/Simulink. My current portfolio includes aircraft and UAV dynamics, Kalman filtering, flight-control systems, actuator modeling, and embedded software and hardware.
 
 ---
 
