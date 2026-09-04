@@ -21,13 +21,13 @@ I mainly work with Python, C/C++, and MATLAB/Simulink. My current portfolio incl
 
 ## Selected Projects
 
-### [Drone Error-State Kalman Filter](https://github.com/hunkarsuci/KF_Implementation_for_Drone)
-
-A 15-state Error-State Kalman Filter for synthetic IMU, GPS, and barometer measurements. The project includes deterministic evaluation, estimator-invariant tests, covariance diagnostics, and documented coordinate-frame and quaternion conventions.
-
 ### [Generic Delta-Canard Fighter 6DOF](https://github.com/hunkarsuci/generic_delta_canard_fighter_6dof)
 
 A modular six-degree-of-freedom aircraft simulation developed to study rigid-body dynamics, aerodynamic modeling, numerical integration, trim, linearization, and flight-control design.
+
+### [Drone Error-State Kalman Filter](https://github.com/hunkarsuci/KF_Implementation_for_Drone)
+
+A 15-state Error-State Kalman Filter for synthetic IMU, GPS, and barometer measurements. The project includes deterministic evaluation, estimator-invariant tests, covariance diagnostics, and documented coordinate-frame and quaternion conventions.
 
 ### [F-16-Inspired Lateral-Directional Flight Control](https://github.com/hunkarsuci/F16-Inspired-Lateral-Directional-FCS)
 
