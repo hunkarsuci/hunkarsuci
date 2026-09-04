@@ -1,8 +1,8 @@
 # Hünkar Suci
 
-**Mechanical Engineer | Guidance, Navigation & Control | Aerospace Software**
+**Aerospace and Mechanical Engineer | Guidance, Navigation & Control | Aerospace Software**
 
-M.Sc. Mechanical Engineering, Technical University of Munich  
+M.Sc. Aerospace and Mechanical Engineering, Technical University of Munich  
 Based in Munich, Germany
 
 [LinkedIn](https://www.linkedin.com/in/hunkar-suci)
