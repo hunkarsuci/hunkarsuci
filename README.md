@@ -63,6 +63,6 @@ An Arduino-based hardware and firmware project for testing 32-line cable assembl
 
 ## Current Direction
 
-I am currently developing deeper, reproducible projects in state estimation, flight dynamics, control, and embedded validation.
+I am currently developing deeper, reproducible projects in state estimation, flight dynamics, control, AI/LLM documentation and embedded validation.
 
 My goal is to work on aerospace or autonomous systems where algorithms must remain reliable under real sensor behavior, model uncertainty, actuator constraints, and safety-critical operating conditions.
