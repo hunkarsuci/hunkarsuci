@@ -1,68 +1,21 @@
 # Hünkar Suci
 
-**Aerospace and Mechanical Engineer | Guidance, Navigation & Control | Aerospace Software**
+Aerospace and mechanical engineer in Munich, focused on flight dynamics, guidance and control, state estimation, and testable aerospace software.
 
-M.Sc. Aerospace and Mechanical Engineering, Technical University of Munich  
-Based in Munich, Germany
+M.Sc. Aerospace and Mechanical Engineering, Technical University of Munich · [LinkedIn](https://www.linkedin.com/in/hunkar-suci)
 
-[LinkedIn](https://www.linkedin.com/in/hunkar-suci)
+## Selected engineering work
 
----
+| Project | What to inspect | Scope |
+| --- | --- | --- |
+| [Generic delta-canard 6DOF](https://github.com/hunkarsuci/generic_delta_canard_fighter_6dof) | Rigid-body model, trim, linearization, control studies, and validation matrix | Generic research model; see its documented assumptions |
+| [Drone error-state Kalman filter](https://github.com/hunkarsuci/KF_Implementation_for_Drone) | IMU prediction, GPS/barometer updates, deterministic evaluation, Jacobian checks | Synthetic sensors; no flight-data validation |
+| [Lateral-directional FCS](https://github.com/hunkarsuci/F16-Inspired-Lateral-Directional-FCS) | State feedback, command shaping, actuator limits, and tests | Simplified F-16-inspired linear model, not aircraft-qualified |
+| [B747 longitudinal C* control](https://github.com/hunkarsuci/b747-longitudinal-cstar-control) | Fixed-trim state-space model, C* command, response metrics | Illustrative model and simulation, not identified aircraft data |
+| [Hydraulic-servo actuator dynamics](https://github.com/hunkarsuci/Hydraulic-Servo-Actuator-Dynamics) | Second-order response with acceleration, rate, and travel limits | No hydraulic pressure or hardware calibration |
 
-## About Me
+I like making the assumptions visible: coordinate frames and units, actuator and sensor limits, numerical checks, and the difference between a simulation result and measured performance. The repositories include run instructions and describe what their tests actually cover.
 
-I am a mechanical engineer focused on guidance, navigation and control, flight dynamics, state estimation, and aerospace software validation.
+For embedded work, [32×32 Cable Tester](https://github.com/hunkarsuci/32x32-Cable-Tester) contains firmware and wiring notes for a cable continuity matrix. Hardware verification is still needed.
 
-My projects typically begin with a physical system or an engineering question and continue through modeling, simulation, implementation, and testing. I am particularly interested in the parts of a system that become important beyond ideal simulations: sensor noise, actuator limits, model uncertainty, numerical behavior, timing constraints, and hardware interaction.
-
-I mainly work with Python, C/C++, and MATLAB/Simulink. My current portfolio includes aircraft and UAV dynamics, Kalman filtering, flight-control systems, actuator modeling, and embedded software and hardware.
-
----
-
-## Selected Projects
-
-### [Generic Delta-Canard Fighter 6DOF](https://github.com/hunkarsuci/generic_delta_canard_fighter_6dof)
-
-A modular six-degree-of-freedom aircraft simulation developed to study rigid-body dynamics, aerodynamic modeling, numerical integration, trim, linearization, and flight-control design.
-
-### [F-16-Inspired Lateral-Directional Flight Control](https://github.com/hunkarsuci/F16-Inspired-Lateral-Directional-FCS)
-
-A simplified lateral-directional control-system study incorporating state-feedback control, command shaping, actuator dynamics, rate limits, and saturation behavior.
-
-### [Drone Error-State Kalman Filter](https://github.com/hunkarsuci/KF_Implementation_for_Drone)
-
-A 15-state Error-State Kalman Filter for synthetic IMU, GPS, and barometer measurements. The project includes deterministic evaluation, estimator-invariant tests, covariance diagnostics, and documented coordinate-frame and quaternion conventions.
-
-### [32×32 Cable Tester](https://github.com/hunkarsuci/32x32-Cable-Tester)
-
-An Arduino-based hardware and firmware project for testing 32-line cable assemblies and identifying open, crossed, and shorted connections.
-
----
-
-## Engineering Interests
-
-- Guidance, navigation and control
-- Flight dynamics and control-law development
-- Kalman filtering and multi-sensor state estimation
-- UAV and autonomous-system software
-- Aerospace and avionics software validation
-- Embedded testing, SIL/HIL, and fault investigation
-- Simulation-driven engineering
-
----
-
-## Technical Toolkit
-
-**Programming:** Python, C/C++, MATLAB  
-**Modeling and control:** NumPy, SciPy, MATLAB/Simulink, state-space methods  
-**Robotics and embedded systems:** ROS/ROS2, Arduino, serial communication, CAN  
-**Testing and infrastructure:** Pytest, Ruff, GitHub Actions, Git, Docker  
-**Engineering workflows:** SIL/HIL testing, test automation, requirements and traceability
-
----
-
-## Current Direction
-
-I am currently developing deeper, reproducible projects in state estimation, flight dynamics, control, AI/LLM documentation and embedded validation.
-
-My goal is to work on aerospace or autonomous systems where algorithms must remain reliable under real sensor behavior, model uncertainty, actuator constraints, and safety-critical operating conditions.
+**Tools used across these projects:** Python, NumPy, SciPy, MATLAB/Simulink, C/C++, Arduino, pytest, and GitHub Actions. My current focus is estimation and control software that can be reproduced and reviewed from the model through the tests.
