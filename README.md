@@ -1,23 +1,32 @@
+<div align="center">
+
 # Hünkar Suci
 
-### Flight Control & GNC · Aerospace Software · Avionics & Embedded Systems
+### Aerospace Guidance, Control & Avionics
 
-**M.Sc. Mechanical Engineering (Maschinenwesen) student at the Technical University of Munich**
+**Flight Dynamics · State Estimation · Embedded C/C++ · RF & Antenna Systems**
 
-I am an aerospace-focused engineer in the Munich area, working toward a career in guidance, navigation and control (GNC). My experience spans flight-control and estimation projects, avionics software verification, HIL/DAQ, autonomous UAV navigation, embedded hardware, and production C++/Qt test automation.
+M.Sc. Mechanical Engineering (Maschinenwesen) student at the Technical University of Munich
 
-My current technical focus is robust flight-control software, control allocation, state estimation, and verifiable avionics systems. This semester, I am also expanding my RF and antenna-engineering foundation, building on earlier SDR, GNSS telemetry, and SATCOM link-budget work.
+[LinkedIn](https://www.linkedin.com/in/hunkar-suci) · Munich Area, Germany
 
-📍 Munich area, Germany · [LinkedIn](https://www.linkedin.com/in/hunkar-suci)
+</div>
 
-## Technical focus
+## About
 
-- **Guidance, navigation and control** — dynamic modeling, trim, linearization, control laws, guidance logic, and closed-loop evaluation
-- **Flight dynamics and control systems** — nonlinear and linear aircraft models, actuator dynamics, PID/LQR, control allocation, and response analysis
-- **State estimation and sensor fusion** — Kalman filtering, error-state estimation, visual-inertial odometry, IMU/GPS/barometer models, and numerical verification
-- **Embedded and avionics software** — C/C++, Qt/PyQt, MATLAB/Simulink, hardware interfaces, automated verification, and CI
-- **SIL/HIL and test automation** — LabVIEW, DAQ, sensor simulation, calibration, traceable regression testing, and reproducible debugging
-- **RF and antenna engineering** — current antenna coursework with prior SDR front-end, GNSS telemetry, and SATCOM link-budget experience
+I work across the aerospace systems chain—from aircraft dynamics, control laws, and state estimation to embedded avionics software, verification, and RF communications.
+
+My experience includes production C++/Qt development, avionics software testing, SIL/HIL and DAQ automation, autonomous UAV navigation, embedded hardware, and flight-control projects. I am currently expanding my RF and antenna-engineering foundation while continuing to build verifiable GNC and aerospace software.
+
+## Engineering focus
+
+| Area | Current focus |
+| --- | --- |
+| **Flight Control & GNC** | Dynamic modeling, trim, linearization, control-law design, guidance logic, LQR/PID, control allocation, and closed-loop evaluation |
+| **State Estimation & Autonomy** | Kalman filtering, error-state estimation, visual-inertial odometry, sensor fusion, UAV navigation, and numerical verification |
+| **Avionics & Embedded Software** | C/C++, Qt/PyQt, MATLAB/Simulink, hardware interfaces, deterministic software, automated testing, and CI |
+| **Verification & Integration** | SIL/HIL, LabVIEW/DAQ, sensor simulation, calibration, traceable regression testing, CAN, UART, and Ethernet |
+| **RF & Antenna Systems** | Current antenna-engineering coursework, building on SDR front-end, GNSS telemetry, and SATCOM link-budget experience |
 
 ## Engineering experience
 
@@ -31,7 +40,7 @@ My current technical focus is robust flight-control software, control allocation
 | **WARR - TUM Student Space Program** | SDR-based RF front-end work for GNSS telemetry/beacon signals and SATCOM link-budget validation |
 | **Turkish Aerospace** | Internship experience in UAV flight dynamics, control, and performance analysis using MATLAB/C++ |
 
-## Selected GNC and flight-control work
+## Selected engineering work
 
 | Project | Engineering evidence | Scope |
 | --- | --- | --- |
@@ -44,9 +53,9 @@ My current technical focus is robust flight-control software, control allocation
 
 ## Current development
 
-- Taking current coursework in **RF and antenna engineering**
+- Deepening **RF and antenna engineering** through current coursework
 - Strengthening **modern C++** for numerical, real-time, and safety-conscious engineering software
-- Building further practical experience with **ROS 2** through new projects
+- Building practical **ROS 2** experience through new projects
 - Extending flight-control and state-estimation projects with reproducible tests and explicit validation boundaries
 
 ## Engineering approach
@@ -59,7 +68,7 @@ I aim to make assumptions reviewable: coordinate frames and units, actuator and 
 **Programming:** C · C++ · Python · MATLAB/Simulink · Embedded C · Qt/PyQt · LabVIEW  
 **Robotics and interfaces:** ROS/ROS 2 · Gazebo · CAN · UART · Ethernet · Arduino  
 **Verification and tooling:** SIL/HIL · Test automation · Git/GitHub Actions · CI/CD · CMake · Docker  
-**RF and communications:** SDR fundamentals · GNSS telemetry · SATCOM link budgets · Antenna engineering *(current coursework)*
+**RF and communications:** SDR fundamentals · GNSS telemetry · SATCOM link budgets · Antenna engineering
 
 ## Education and languages
 
@@ -70,4 +79,8 @@ I aim to make assumptions reviewable: coordinate frames and units, actuator and 
 
 ---
 
-Interested in flight-control, GNC, state-estimation, avionics, embedded-aerospace, and RF/antenna engineering opportunities in the Munich area.
+<div align="center">
+
+Open to opportunities in **Flight Control · GNC · State Estimation · Avionics · Embedded Aerospace · RF & Antenna Systems**
+
+</div>
