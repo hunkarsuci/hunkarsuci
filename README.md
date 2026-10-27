@@ -14,7 +14,7 @@ M.Sc. Mechanical Engineering (Maschinenwesen) student at the Technical Universit
 
 ## About
 
-I work across the aerospace systems chain—from aircraft dynamics, control laws, and state estimation to embedded avionics software, verification, and RF communications.
+I work across the aerospace systems chain from aircraft dynamics, control laws, and state estimation to embedded avionics software, verification, and RF communications.
 
 My experience includes production C++/Qt development, avionics software testing, SIL/HIL and DAQ automation, autonomous UAV navigation, embedded hardware, and flight-control projects. I am currently expanding my RF and antenna-engineering foundation while continuing to build verifiable GNC and aerospace software.
 
