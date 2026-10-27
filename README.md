@@ -1,21 +1,39 @@
 # Hünkar Suci
 
-Aerospace and mechanical engineer in Munich, focused on flight dynamics, guidance and control, state estimation, and testable aerospace software.
+**M.Sc. Mechanical Engineering student at the Technical University of Munich**
 
-M.Sc. Aerospace and Mechanical Engineering, Technical University of Munich · [LinkedIn](https://www.linkedin.com/in/hunkar-suci)
+I focus on guidance, navigation and control (GNC), flight dynamics, state estimation, and testable aerospace software. I build physics-based simulations, control systems, estimation algorithms, and embedded prototypes using Python, MATLAB/Simulink, and C/C++.
+
+📍 Munich, Germany · [LinkedIn](https://www.linkedin.com/in/hunkar-suci)
+
+## Engineering focus
+
+- **Guidance, navigation and control** — modeling, trim, linearization, feedback control, and closed-loop evaluation
+- **Flight dynamics and control systems** — nonlinear and linear aircraft models, actuator dynamics, PID/LQR, and response analysis
+- **State estimation and sensor fusion** — Kalman filtering, error-state estimation, IMU/GPS/barometer models, and numerical verification
+- **Embedded software** — C/C++, Arduino, deterministic and testable engineering code
+- **Avionics foundations** — currently expanding my knowledge of ROS 2 integration, RF systems, and antenna engineering
 
 ## Selected engineering work
 
-| Project | What to inspect | Scope |
+| Project | Engineering evidence | Scope |
 | --- | --- | --- |
-| [Generic delta-canard 6DOF](https://github.com/hunkarsuci/generic_delta_canard_fighter_6dof) | Rigid-body model, trim, linearization, control studies, and validation matrix | Generic research model; see its documented assumptions |
-| [Drone error-state Kalman filter](https://github.com/hunkarsuci/KF_Implementation_for_Drone) | IMU prediction, GPS/barometer updates, deterministic evaluation, Jacobian checks | Synthetic sensors; no flight-data validation |
-| [Lateral-directional FCS](https://github.com/hunkarsuci/F16-Inspired-Lateral-Directional-FCS) | State feedback, command shaping, actuator limits, and tests | Simplified F-16-inspired linear model, not aircraft-qualified |
-| [B747 longitudinal C* control](https://github.com/hunkarsuci/b747-longitudinal-cstar-control) | Fixed-trim state-space model, C* command, response metrics | Illustrative model and simulation, not identified aircraft data |
-| [Hydraulic-servo actuator dynamics](https://github.com/hunkarsuci/Hydraulic-Servo-Actuator-Dynamics) | Second-order response with acceleration, rate, and travel limits | No hydraulic pressure or hardware calibration |
+| [Generic delta-canard 6DOF](https://github.com/hunkarsuci/generic_delta_canard_fighter_6dof) | Nonlinear rigid-body dynamics, trim, numerical linearization, PID/LQR, actuator models, CI, and validation matrix | Generic research model with synthetic aerodynamic and propulsion data |
+| [Drone error-state Kalman filter](https://github.com/hunkarsuci/KF_Implementation_for_Drone) | IMU prediction, GPS/barometer updates, quaternion attitude, deterministic metrics, and Jacobian checks | Synthetic sensors; no flight-data validation |
+| [Lateral-directional FCS](https://github.com/hunkarsuci/F16-Inspired-Lateral-Directional-FCS) | State feedback, command shaping, actuator limits, closed-loop simulation, and automated tests | Simplified teaching model; not an aircraft-qualified control law |
+| [3D quadcopter simulation](https://github.com/hunkarsuci/3d-quadcopter-simulation) | Newton–Euler dynamics, RK4 integration, cascaded PID control, waypoint tracking, telemetry, and CI | Educational simulation with synthetic scenarios |
+| [32×32 cable tester](https://github.com/hunkarsuci/32x32-Cable-Tester) | Arduino firmware, multiplexer-based continuity scanning, wiring documentation, and fault classification | Prototype design; physical verification report is still planned |
 
-I like making the assumptions visible: coordinate frames and units, actuator and sensor limits, numerical checks, and the difference between a simulation result and measured performance. The repositories include run instructions and describe what their tests actually cover.
+## How I work
 
-For embedded work, [32×32 Cable Tester](https://github.com/hunkarsuci/32x32-Cable-Tester) contains firmware and wiring notes for a cable continuity matrix. Hardware verification is still needed.
+I aim to make engineering assumptions reviewable: coordinate frames and units, actuator and sensor limits, numerical checks, reproducible scenarios, and the distinction between simulated performance and measured performance. My repositories document what their tests verify—and what they do not.
 
-**Tools used across these projects:** Python, NumPy, SciPy, MATLAB/Simulink, C/C++, Arduino, pytest, and GitHub Actions. My current focus is estimation and control software that can be reproduced and reviewed from the model through the tests.
+## Current development
+
+I am strengthening my embedded C++ and ROS 2 skills through project-based work, with the goal of connecting flight-control and estimation algorithms to modular, testable avionics software. In parallel, I am developing my RF and antenna fundamentals as part of my current coursework.
+
+**Core tools:** Python · NumPy · SciPy · MATLAB/Simulink · C/C++ · Arduino · pytest · GitHub Actions
+
+---
+
+Interested in GNC, flight-control, state-estimation, avionics, and embedded aerospace engineering opportunities in the Munich area.
