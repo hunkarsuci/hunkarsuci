@@ -1,18 +1,21 @@
 # Hünkar Suci
 
+### Aerospace GNC · Flight Dynamics & Control · State Estimation · Embedded Systems
+
 **M.Sc. Mechanical Engineering student at the Technical University of Munich**
 
-I focus on guidance, navigation and control (GNC), flight dynamics, state estimation, and testable aerospace software. I build physics-based simulations, control systems, estimation algorithms, and embedded prototypes using Python, MATLAB/Simulink, and C/C++.
+I am an aerospace-focused engineer based in Munich, working toward a career in guidance, navigation and control (GNC). My work connects physics-based modeling with control, estimation, simulation, and testable software. I am also developing the embedded and avionics skills needed to move algorithms closer to real systems.
 
 📍 Munich, Germany · [LinkedIn](https://www.linkedin.com/in/hunkar-suci)
 
-## Engineering focus
+## Technical focus
 
-- **Guidance, navigation and control** — modeling, trim, linearization, feedback control, and closed-loop evaluation
-- **Flight dynamics and control systems** — nonlinear and linear aircraft models, actuator dynamics, PID/LQR, and response analysis
+- **Guidance, navigation and control** — dynamic modeling, trim, linearization, feedback control, guidance logic, and closed-loop evaluation
+- **Flight dynamics and control systems** — nonlinear and linear aircraft models, actuator dynamics, PID/LQR, response analysis, and simulation
 - **State estimation and sensor fusion** — Kalman filtering, error-state estimation, IMU/GPS/barometer models, and numerical verification
-- **Embedded software** — C/C++, Arduino, deterministic and testable engineering code
-- **Avionics foundations** — currently expanding my knowledge of ROS 2 integration, RF systems, and antenna engineering
+- **Embedded C/C++** — deterministic, modular, and testable engineering software; Arduino-based prototyping
+- **Avionics integration** — building practical experience with ROS 2 and component-based aerospace software
+- **RF and antenna engineering** — an active academic focus during my current semester
 
 ## Selected engineering work
 
@@ -24,16 +27,31 @@ I focus on guidance, navigation and control (GNC), flight dynamics, state estima
 | [3D quadcopter simulation](https://github.com/hunkarsuci/3d-quadcopter-simulation) | Newton–Euler dynamics, RK4 integration, cascaded PID control, waypoint tracking, telemetry, and CI | Educational simulation with synthetic scenarios |
 | [32×32 cable tester](https://github.com/hunkarsuci/32x32-Cable-Tester) | Arduino firmware, multiplexer-based continuity scanning, wiring documentation, and fault classification | Prototype design; physical verification report is still planned |
 
-## How I work
+## Current semester
 
-I aim to make engineering assumptions reviewable: coordinate frames and units, actuator and sensor limits, numerical checks, reproducible scenarios, and the distinction between simulated performance and measured performance. My repositories document what their tests verify—and what they do not.
+My current studies extend the GNC and embedded-software foundation toward avionics:
 
-## Current development
+- developing fundamentals in **RF systems and antenna engineering** through current coursework;
+- improving **modern C++** for numerical and real-time engineering applications;
+- learning **ROS 2** through new project work rather than presenting it as an established specialization; and
+- continuing flight-control and state-estimation projects with reproducible tests and documented validation boundaries.
 
-I am strengthening my embedded C++ and ROS 2 skills through project-based work, with the goal of connecting flight-control and estimation algorithms to modular, testable avionics software. In parallel, I am developing my RF and antenna fundamentals as part of my current coursework.
+## Aerospace background
 
-**Core tools:** Python · NumPy · SciPy · MATLAB/Simulink · C/C++ · Arduino · pytest · GitHub Actions
+Before and alongside my graduate studies, I gained internship and student-team experience across aerodynamics, manufacturing, flight control, flight dynamics, and university rocketry. These experiences shaped my interest in the complete engineering path—from physical models and control laws to software, integration, and verification.
+
+## Engineering approach
+
+I aim to make assumptions reviewable: coordinate frames and units, actuator and sensor limits, numerical checks, reproducible scenarios, and the distinction between simulated and measured performance. My repositories document both what their tests verify and what remains unvalidated.
+
+## Tools
+
+**Programming:** Python · C · C++ · MATLAB  
+**Scientific computing:** NumPy · SciPy · Simulink  
+**Engineering workflow:** Git · GitHub Actions · pytest · CMake  
+**Embedded and integration:** Arduino · ROS 2 *(currently developing)*  
+**Current academic expansion:** RF systems · Antenna engineering
 
 ---
 
-Interested in GNC, flight-control, state-estimation, avionics, and embedded aerospace engineering opportunities in the Munich area.
+I am interested in GNC, flight-control, state-estimation, avionics, and embedded aerospace engineering opportunities in the Munich area.
