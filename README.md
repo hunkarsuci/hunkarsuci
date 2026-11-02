@@ -2,7 +2,7 @@
 
 # Hünkar Suci
 
-### Aerospace Guidance, Control & Avionics
+### Aerospace GNC & Avionics
 
 **Flight Dynamics · State Estimation · Embedded C/C++ · RF & Antenna Systems**
 
